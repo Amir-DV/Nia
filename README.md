@@ -21,3 +21,7 @@ Currently, Nia is private, so there are no installation instructions available.
 
 ## License
 This project does not have a public license and is intended for use with the source code only.
+
+## Contact Me
+## Contact Me
+Feel free to reach out on Discord: [Iviolet](https://discordapp.com/users/856956452740792320) 💬
