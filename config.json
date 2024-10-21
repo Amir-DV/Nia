@@ -1,0 +1,4 @@
+{
+	"token": "YourBotToken",
+	"mongodb": "YourMongoDBString"
+}
